@@ -1,0 +1,9 @@
+Bucle for: es como una funcion pero que se va a repetir las veces que necesitemos con distiintos valores
+en un instante y lanzara todos los resultados.
+
+Operadores Logicos:
+
+&& AND: la condicion es verdadera si se cumplen las 2 condiciones que se encuentren unidas por &&.
+|| OR: la condicion es verdadera si se cumple alguna de las condiciones que se encuentren unidas por ||.
+! NOT: invierte el valor booleano de cualquier condicion.
+

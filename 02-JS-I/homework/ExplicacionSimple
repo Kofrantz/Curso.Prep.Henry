@@ -1,0 +1,20 @@
+Variables: son espacios en la memoria donde podemos alojar datos que pudieran cambiar o 
+no segun se necesite. Estos datos pueden ser numeros, palabras u objetos.
+
+Strings: cadenas de texto que la computadora no lee como codigo porque lo interpreta como texto 
+que tiene que mostrar al usuario. Se pueden alojar en variables para usar cuando se necesiten o 
+modificarlas.
+
+Funciones: permiten que reutilizemos bloques de codigo llamando a la funcion a la cual se 
+asigno el bloque, en vez de repetir el bloque de codigo. 
+-Un argumento es una variable que podemos cambiar al llamar una funcion para que el bloque de codigo se 
+ejecute en base a el valor que le asignamos. La funcion es como una maquina donde ingresamos un valor, 
+realiza en él una serie de tareas y luego nos devuelve el valor modificado.
+-return: este comando detiene la funcion y envia un resultado al momento de ser ejecutado.
+
+Declaraciones if: determina una condicion y realiza una tarea si esa condicion se cumple.
+
+Booleanos: son variables que pueden tener solo dos valores, true (verdadero) o false (falso). Son como
+interruptores que determinan si algo esta encendido o apagado. En el caso de los booleanos determinan 
+si algo es verdadero o falso.
+

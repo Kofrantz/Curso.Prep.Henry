@@ -1,0 +1,13 @@
+Objetos: son conjuntos de datos donde se puede almacenar y agrupar datos de distinto tipo y funciones.
+
+Propiedades: caracteristicas del objeto que se pueden leer o modificar, con el nombre de cada propiedad
+podemos acceder al dato o funcion que contiene dentro.
+
+Metodos: es la forma correcta de llamar a las funciones dentro de objetos.
+
+Bucle for...in: Es un bucle particularmente util para recorrer objetos o arrays, ya que see ejecuta 
+sobre uno de ellos las veces que sean necesarias hasta terminar de recorrer el objeto o array.
+
+bracket notation sirve para citar una propiedad la cual puede ser adaptable al contexto en que la usemos,
+pero al usar dot notation va a tomar literalmente la propiedad y dara error si la usamos en un contexto 
+inapropiado.
